@@ -142,6 +142,6 @@ Elles contiennent :
 •	métriques aéronautiques (RPM, ASM, etc.) ✔️
 ________________________________________
 👤 Auteurs
-Ton Nom
-Data Analyst — Formation X
-📫 Contact : ton.email@example.com
+PAGET Pierre-Alexandre
+Data Analyst — Formation Jedha
+📫 Contact : pierre.alexandre.paget@gmail.com
