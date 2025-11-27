@@ -25,13 +25,25 @@ ________________________________________
 •	Données
 
 •	Auteurs
+
+
 ________________________________________
+
+
 🧠 Contexte
+
 Le secteur aérien génère de nombreuses données : vols, passagers, aéroports, capacités, kilométrage…
+
+
 L'objectif est de construire un workflow analytique reproductible, permettant de répondre à plusieurs questions business clés, comme :
+
 •	Quels avions volent le plus ?
+
 •	Quels aéroports transportent le plus de passagers ?
+
 •	Quelles compagnies performent le mieux en termes de RPM ou de croissance ?
+
+
 Ce projet démontre une approche complète de l’ingestion à la modélisation, jusqu’à l’analyse visuelle des résultats.
 ________________________________________
 🎯 Objectifs du projet
