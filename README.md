@@ -5,15 +5,25 @@ Projet de formation en data analytics visant à construire une pipeline complèt
 ________________________________________
 📁 Table of Contents
 •	Contexte
+
 •	Objectifs du projet
+
 •	Stack technique
+
 •	Architecture du projet
+
 •	Modèles dbt
+
 •	Questions métier traitées
+
 •	Analyse exploratoire (EDA)
+
 •	Compétences mises en avant
+
 •	Installation & exécution
+
 •	Données
+
 •	Auteurs
 ________________________________________
 🧠 Contexte
